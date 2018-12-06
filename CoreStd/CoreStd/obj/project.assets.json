@@ -11507,11 +11507,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asts.rsjesus\\Desktop\\CoreStd\\CoreStd\\CoreStd.csproj",
+      "projectUniqueName": "C:\\Users\\asts.rsjesus\\Source\\Repos\\CoreStd\\CoreStd\\CoreStd\\CoreStd.csproj",
       "projectName": "CoreStd",
-      "projectPath": "C:\\Users\\asts.rsjesus\\Desktop\\CoreStd\\CoreStd\\CoreStd.csproj",
+      "projectPath": "C:\\Users\\asts.rsjesus\\Source\\Repos\\CoreStd\\CoreStd\\CoreStd\\CoreStd.csproj",
       "packagesPath": "C:\\Users\\asts.rsjesus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asts.rsjesus\\Desktop\\CoreStd\\CoreStd\\obj\\",
+      "outputPath": "C:\\Users\\asts.rsjesus\\Source\\Repos\\CoreStd\\CoreStd\\CoreStd\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
